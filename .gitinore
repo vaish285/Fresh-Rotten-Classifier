@@ -1,0 +1,7 @@
+echo .venv/>>.gitignore
+echo foodenv/>>.gitignore
+echo __pycache__/>>.gitignore
+echo dataset/>>.gitignore
+echo dataset_small/>>.gitignore
+echo uploads/>>.gitignore
+echo *.h5>>.gitignore
